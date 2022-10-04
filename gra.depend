@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1636322462 source:c:\users\user\desktop\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1637531660 source:f:\projekt1\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+
+1637534028 source:c:\users\user\desktop\projekt1\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+
+1637870026 source:e:\projekt1tablice\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+
+1638715564 source:f:\projekt1tablice\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+
+1639358094 source:c:\users\user\desktop\projekt1tablice\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+
+1639369546 source:f:\projekt\projket bez cls sleep\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+
+1639379096 source:e:\projekt\projket poprawny\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+
+1639379096 source:f:\projekt\projket poprawny\gra\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+
